@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       GSI:
-        description: 'Samfw Link For AP'
+        description: https://drive.usercontent.google.com/download?id=1qIz70aMSOwFLWa4ObBUPCV6zi2bH-dco&export=download&authuser=1&confirm=t&uuid=b1bb59c9-6999-4d73-8862-ac2e12bba6bc&at=APvzH3rnskqtTXEHptScKa1M41eK%3A1734805572179
         required: true
-        default: ' AP LINK FROM SAMFW'
+        default: A055FXXS7CXJ1
       
       Firmware:
         description: 'Firmware version'
