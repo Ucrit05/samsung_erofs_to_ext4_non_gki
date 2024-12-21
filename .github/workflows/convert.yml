@@ -11,9 +11,9 @@ on:
         default: A055FXXS7CXJ1
       
       Firmware:
-        description: 'Firmware version'
+        description: A055FXXS7CXJ1
         required: true
-        default: 'EG - :A055FXXU2AWK1'
+        default: 'EG - :A055FXXS7CXJ1
 
 jobs:
   Build:
